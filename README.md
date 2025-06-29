@@ -3,7 +3,7 @@
 Welcome to my personal mathematics website built with **Next.js** and **MDX**.  
 I explore topics in algebra, topology, number theory, and mathematical philosophy through clean, LaTeX-rendered blog posts.
 
-> 🔗 **Live site**: [link here](https://takaya-mathematics-website-intfwodqz-santavalleyteas-projects.vercel.app/)
+> 🔗 **Live site**: [link here](https://takaya-mathematics-website.vercel.app/)
 
 ---
 
