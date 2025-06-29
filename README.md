@@ -1,4 +1,4 @@
-# 📘 My Math Blog
+# 📘 Mathematics Article Website
 
 Welcome to my personal mathematics website built with **Next.js** and **MDX**.  
 I explore topics in algebra, topology, number theory, and mathematical philosophy through clean, LaTeX-rendered blog posts.
