@@ -67,7 +67,7 @@ export default function Home({ posts }: { posts: Post[] }) {
       <ParticlesBackground />
 
       <div className="prose prose-invert max-w-7xl mx-auto px-4 py-8 relative z-10">
-        <h1 className="text-3xl font-bold mb-6">📘 My Math Blog</h1>
+        <h1 className="text-3xl font-bold mb-6">Takaya - Mathematics Page</h1>
 
         <div className="flex gap-4 mb-6 flex-wrap">
           {categories.map((cat) => (
