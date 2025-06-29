@@ -28,7 +28,7 @@ export default function PostPage({ source }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const files = fs.readdirSync(path.join('pages','posts'))
+  const files = fs.readdirSync(path.join('pages','posts')).filter(f => f.endsWith('.mdx'))
   const paths = files.map((filename) => ({
     params: { slug: filename.replace('.mdx', '') },
   }))
